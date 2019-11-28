@@ -32,8 +32,8 @@ ExportedObj/
 Icon?
 ehthumbs.db
 Thumbs.db
-
-
+.vscode
+.vscode/*
 
 /[Ll]ibrary/
 /[Tt]emp/
